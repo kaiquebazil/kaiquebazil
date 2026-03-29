@@ -21,10 +21,10 @@ Sou um desenvolvedor de software com foco em criar soluções eficientes e escal
 
 ## 🔗 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiquebazil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-bazil-a793ba243/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiquedesouzabazil@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521987654321) <!-- Substitua pelo seu número de WhatsApp -->
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/seu_usuario_telegram) <!-- Substitua pelo seu usuário do Telegram -->
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521977297049) <!-- Substitua pelo seu número de WhatsApp -->
+[![Youtube](https://img.shields.io/badge/Youtube-2CA5E0?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/kaiquebazil) <!-- Substitua pelo seu usuário do Telegram -->
 
 ---
 
@@ -41,4 +41,3 @@ Confira meu portfólio para ver mais dos meus trabalhos: [Meu Portfólio](https:
 
 <!-- Snake Game - Para adicionar o snake game, você precisará de um workflow do GitHub Actions. Consulte a documentação do Platane/snk para configurar. -->
 <!-- Exemplo: https://github.com/Platane/snk -->
-
